@@ -1,0 +1,153 @@
+﻿body {
+    background-color: #232323;
+}
+.header { 
+    left: 30px;
+    display: flex;
+    position: fixed;
+  
+    height: 100px;
+    width: 800px;
+    color: whitesmoke;
+
+}
+.header .p { 
+    
+    font-size: 24px;
+    justify-content:left;
+    position: initial;
+    display: flex;
+    
+
+
+
+
+}
+ p {
+     color: white;
+     font-size: 24px;
+     margin: 8px;
+ }
+    p:hover {
+        color: gray;
+        transform: scale(1.07, 1.07);
+        transition: 0.2s;
+    }
+.bold-text {
+    top: 80px;
+    left: 30px;
+     color: white;
+     position: absolute;
+     display: flex;
+     font-size: 19px;
+     font-weight: bold;
+
+}
+.mini-text {
+    text-align: left;
+    justify-content: left;
+    top: 120px;
+    left: 30px;
+    color: white;
+    position: absolute;
+    display: flex;
+    font-size: 12px;
+    font-weight: bold;
+}
+.mini-text-2{
+    text-align: left;
+    justify-content: left;
+    top: 320px;
+    left: 30px;
+    color: white;
+    position: absolute;
+    display: flex;
+    font-size: 12px;
+    font-weight: bold;
+}
+.mini-text-3 {
+    text-align: left;
+    justify-content: left;
+    top: 520px;
+    left: 30px;
+    color: white;
+    position: absolute;
+    display: flex;
+    font-size: 12px;
+    font-weight: bold;
+}
+.mini-text-4 {
+    text-align: left;
+    justify-content: left;
+    top: 720px;
+    left: 30px;
+    color: white;
+    position: absolute;
+    display: flex;
+    font-size: 12px;
+    font-weight: bold;
+}
+.mini-text-5 {
+    text-align: left;
+    justify-content: left;
+    top: 120px;
+    left: 400px;
+    color: white;
+    position: absolute;
+    display: flex;
+    font-size: 12px;
+    font-weight: bold;
+}
+.mini-text-6 {
+    text-align: left;
+    justify-content: left;
+    top: 620px;
+    left: 400px;
+    color: white;
+    position: absolute;
+    display: flex;
+    font-size: 12px;
+    font-weight: bold;
+}
+.container {
+
+    width: 100px;
+    height: 100%;
+
+
+}
+.fotka-1 {
+    position: absolute;
+    left: 400px;
+    bottom: 420px;
+}
+.fotka-2 {
+    
+    height: 400px;
+    width: 600px;
+    position: absolute;
+    left: 400px;
+    top: 700px;
+}
+.bold-text-1 {
+    top: 80px;
+    left: 400px;
+    color: white;
+    position: absolute;
+    display: flex;
+    font-size: 19px;
+    font-weight: bold;
+}
+.bold-text-2 {
+    top: 570px;
+    left: 400px;
+    color: white;
+    position: absolute;
+    display: flex;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+
+
+
